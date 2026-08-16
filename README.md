@@ -12,3 +12,7 @@ A responsive admin dashboard built with pure HTML and CSS. Features a sidebar na
 - Project cards with action icons
 - Announcements and trending panels
 - Responsive grid layout
+
+## Live Preview 
+Link: https://jeffh11.github.io/admin-dashboard/
+
